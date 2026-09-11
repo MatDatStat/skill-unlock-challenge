@@ -2,8 +2,8 @@
 
 Somewhere on a poster near you, a message is waiting to be decoded.
 
-If you're reading this without having decoded anything yet — turn back. Find the poster,
-hand the message to your agent, and let it tell you where to go next.
+If you're reading this without having decoded anything yet — go back to the message
+you received, hand it to your agent, and let it tell you where to go next.
 
 If you've already decoded it, you know which branch to check out. Good luck, and bring
 your favorite regression technique.
